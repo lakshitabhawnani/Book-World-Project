@@ -1,0 +1,351 @@
+#align1{
+	color:#900;
+	}
+	#imagesp
+	{
+		 width:10%;
+		 height:30%;
+		 }
+		 #imagesp1{
+			 width:40%;
+			 }
+			 #hrmore{
+				 width:100%;
+				 }
+				 #footeris{
+					 background-color:#000;
+					 }
+		
+      #map {
+        height: 400px;
+        width: 100%;
+       }
+    		#discribe{
+				color:#900;
+				font-family:"Comic Sans MS", cursive;
+				font-size:18px;
+				line-height:30px;
+			}
+			discribe2{
+				text-align:center;
+				}
+			#projects
+			{
+				text-align:center;
+				font-family:Tahoma, Geneva, sans-serif;
+			}
+			.large{
+				font-family:"Comic Sans MS", cursive;
+				color:#900;
+				font-size:24px;}
+	
+
+            .section .parallax > img{
+                width: 100%;
+                min-width: 0;
+                min-height: 0;
+            }
+            .pattern-image:after{
+                opacity: .2;
+/*                 background: #111; */
+            }
+            .section-header h1{
+                text-shadow: -2px 2px 30px rgba(0, 0, 0, 0.25), -2px 4px 14px rgba(0, 0, 0, 0.1);
+            }
+            .section-header h5{
+                  text-shadow: 0px 0px 11px rgba(0, 0, 0, 0.3);
+            }
+            .section-header .content{
+                top: 42%;
+				margin-top:-800px;
+				margin-left:-90px;
+				font-family:"Comic Sans MS", cursive
+            }
+            .section-we-are-1 .title{
+                max-width: 960px;
+				text-align:center;
+				margin-right:100px
+            }
+            .card .icon ~ h3{
+                margin-bottom: 10px;
+            }
+            .section-with-hover .project .content{
+                text-align: center;
+            }
+            .section-with-hover .project .over-area{
+                background: rgba(0, 0, 0, .83);
+            }
+            .section-clients-2{
+                padding: 6em 0 1em;
+            }
+            .section-clients-2 .nav-text li {
+                margin: 0 15px 10px 15px;
+            }
+            .section-contact-3 .contact-container .address-container{
+                width: 28%;
+                background-color: #FFFFFF;
+                height: 470px;
+                top: 50px;
+                padding: 20px;
+            }
+            .section-contact-3 .address{
+                margin-top: 40px;
+            }
+            .section-we-made-3 .content{
+                padding: 0 15px;
+                text-align: center;
+            }
+            .section-we-made-3 .over-area .content h3{
+                margin: 5px 0 20px;
+            }
+            .section-we-made-3 .over-area .content p{
+                font-size: .9em;
+                color: #898989;
+            }
+            .section-we-made-3 .over-area .content h5{
+                margin-bottom: 0px;
+                margin-top: 20px;
+            }
+
+            .btn-black{
+                letter-spacing: 1px;
+                margin-top: 20px;
+            }
+			#texto1{
+				font-family:"Comic Sans MS", cursive;
+				}
+				#bookzone{
+					text-align:center;
+					font-size:36px;
+					font-family:"Courier New", Courier, monospace}
+			
+			#texto2{
+				font-family:"Comic Sans MS", cursive;
+				}
+				
+			#texto3{
+				font-family:"Comic Sans MS", cursive;
+				}
+
+            .copyright a{
+                color: #FFFFFF;
+            }
+
+            .section-team-2 .team .member p {
+              font-size: .9em;
+              padding: 0 10px;
+            }
+
+            .card{
+                margin-bottom: 30px;
+            }
+            .section-with-hover .project .over-area.over-area-sm .content p {
+              font-size: .85em;
+            }
+            .section-with-hover .project .over-area.over-area-sm .content h4 {
+              font-size: 1.6em;
+            }
+            .logo{
+                display: block;
+                margin: 0 auto 10px;
+                width: 61px;
+                height: 61px;
+                border-radius: 50%;
+                border: 1px solid #333333;
+                overflow: hidden;
+            }
+			.done1{
+				text-align:center;
+				}
+            .logo img{
+                width: 100%;
+                height: 100%;
+            }
+            .loading .loading-container p {
+                font-size: 30px;
+                width: 220px;
+                margin: 0 auto;
+                margin-bottom: 30px;
+                height: 35px;
+            }
+            .loading .logo{
+                opacity: 0;
+                transition: all 0.9s;
+                -webkit-transition: all 0.9s;
+                -moz-transition: all 0.9s;
+            }
+            .loading .logo.visible{
+                opacity: 1;
+            }
+            .sharrre.btn{
+                color: #444444;
+                border-color: #444444;
+                font-weight: 400;
+            }
+            .address .col-md-6{
+                padding-right: 7px;
+                padding-left: 7px;
+            }
+            a.img-class{
+                opacity: 1;
+            }
+            a.img-class:hover{
+                opacity: .9;
+            }
+
+            .btn-lg{
+                padding: 14px 10px;
+            }
+			.line{
+			    color:#900;
+				width:40%;
+				
+				}
+				.againhr{
+					width:30%;
+					height:40%;
+					color:#900;					}
+
+            #workflow-section{
+				text-align:center;
+			
+				}
+				.againhr1
+				{
+				}
+					
+    		.social-link{
+				display: block-inline;
+			}
+			
+			.pattern-image{
+		  
+     /* The image used */
+background-image: url("http://www.startupremarkable.com/wp-content/uploads/2015/02/a-book-a-week-image.jpg");
+
+  /* Set a specific height */
+     height: 600px;
+
+  /* Create the parallax scrolling effect */
+     background-attachment: fixed;
+     background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding-left: 0px;
+      padding-right: 0px;
+      width: 100vw;
+	  margin-top:-10pxpx;
+
+}
+      
+	#dis{
+		text-align:center;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		color:#F00;
+		}
+		#dis1{
+			font-family:Constantia;
+			text-align:center;
+			}
+.content{
+	margin-top:-390px;
+	text-align:center;
+	font-family:"Comic Sans MS", cursive;
+	
+		}
+	.icon{
+		text-align:right;
+		margin-top:-25px;
+		margin-right:30px;
+		}
+	.container{
+		margin-top:23px;
+		background-color:#DFF;
+		font-family:"Segoe UI Black";
+		width:-10%;
+		height:-10px;
+		font-size:24px;
+				}
+				.line1{
+					margin-right:-400px;
+					}
+			#new1{
+				margin-right:-300px;}
+				
+			.large{
+				margin-right:-390px;}
+				#take{
+					text-align:center;
+					font-family:Lucida Handwriting;
+					}
+					.row
+					{
+						text-align:center;}
+						
+						#animation{
+							background-color:#F82C21;
+							color:#FFF;
+							
+							}
+						#animation2{background-color:#006;
+							color:#FFF;
+														}
+						#animation3{background-color:#F82C21;
+							color:#FFF;
+							}
+							#contact12{
+							 	text-align:center;}
+								.address{
+									text-align:center;
+									}
+									#siteImages{
+										width:20%;
+										height:30%;
+										
+									}
+									#dishr{
+										 width:100%;
+										 }
+										 #img1{
+											  width:63%; 
+											  height:83%;
+											  }
+											  #img2{
+												  width:50%; 
+												  height:70%;
+												  }
+												  #img3{
+													  width:60%;
+													   height:80%;
+													   }
+													   #img4{
+														   width:55%;
+														    height:75;
+															}
+									
+									
+									  /*
+			.space-50{
+                height: 50px;
+                width: 100%;
+                display: block;
+                content: "";
+            }
+			
+			
+            .section-header .separator {
+                margin: 0em auto 2em;
+            } 
+			
+	
+			@media (max-width: 1200px){
+                .section-contact-3 .contact-container .address-container{
+                    height: 520px;
+                }
+            } 
+	
+      
+.header-parent{
+	width:-90px;
+	}
+	*/
