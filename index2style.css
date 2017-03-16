@@ -6,6 +6,75 @@
 		 width:10%;
 		 height:30%;
 		 }
+		 .what-people-think-section p {
+		text-align: center;
+		font-size: 2em;
+		color:#900
+	}
+	.what-people-think a {
+		color: #c5a47e;
+	}
+	#heading01{
+		margin-left:-50px;}
+	#suzen
+	{
+		font-size:14px;
+	
+		}
+	#abhijeet
+	{
+		font-size:14px;
+		}
+	#aurelia
+	{
+		font-size:14px;
+		}
+	#rachi
+	{
+		font-size:14px;
+		}
+	
+		 #dis12{
+			 display:none;
+		 }
+		 #img1:hover
+		  { 
+            border:solid black; 
+              }
+		 #img2:hover
+		  { 
+            border:solid black; 
+              }
+		 #img3:hover
+		  { 
+            border:solid black; 
+              }
+		 #img4:hover
+		  { 
+            border:solid black; 
+              }
+			  #button1{
+				  border-radius:45%;
+				  }
+				  #id1:hover
+				  {
+					  background-color:#F00;
+					  }
+					  #id2:hover{
+						  background-color:#03F;
+						  }
+					  #id3:hover
+					  {
+						  background-color:#0F0;
+						  
+						 
+					  }
+			 
+		 #set
+		 {
+			 width:20%;
+			 height:30%;
+			  }
 		 #imagesp1{
 			 width:40%;
 			 }
@@ -309,7 +378,8 @@ background-image: url("http://www.startupremarkable.com/wp-content/uploads/2015/
 										 #img1{
 											  width:63%; 
 											  height:83%;
-											  }
+											  
+										 }
 											  #img2{
 												  width:50%; 
 												  height:70%;
@@ -322,6 +392,27 @@ background-image: url("http://www.startupremarkable.com/wp-content/uploads/2015/
 														   width:55%;
 														    height:75;
 															}
+															#line1{
+																color:#000;
+																width:100%;
+																height:1%;
+															}
+								#discribe01{
+										text-align:center;
+									     margin-left:-35px;
+												}
+																#d1
+																{
+																display:none;
+																
+																	}
+																#d2{
+																	display:none;
+																	}
+																#d3{
+																	display:none;
+																	}
+													
 									
 									
 									  /*
